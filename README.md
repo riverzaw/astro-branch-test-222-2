@@ -1,6 +1,6 @@
 This is a [Astro](https://nextjs.org/) starter kit bootstrapped with `npm create astro@latest -- --template basics`.
 
-## Getting Started
+## Getting Started 26-11
 
 First, run the development server:
 
